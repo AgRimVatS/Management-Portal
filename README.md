@@ -1,0 +1,1 @@
+The **Management Portal** is a web-based platform developed using HTML, CSS, Python, and Django, designed as a **student-teacher portal**. It enables teachers to share course materials, assign tasks, and monitor student progress, while students can access content, submit work, and check grades, enhancing the efficiency of academic management and communication.
